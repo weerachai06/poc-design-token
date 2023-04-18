@@ -23,10 +23,14 @@ const propertiesToCTI = {
   'size': {category: 'size', type: 'icon'}
 }
 
+/**
+ * @type {import('style-dictionary').Transform}
+ */
 const CTITransform = {
   type: `attribute`,
   transformer: (prop) => {
     // Only do this custom functionality in the 'component' top-level namespace.
+    console.log(prop)
     if (prop.path[0] === 'component') {
       // When defining component tokens, the key of the token is the relevant CSS property
       // The key of the token is the last element in the path array

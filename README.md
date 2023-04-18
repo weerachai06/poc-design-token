@@ -1,1 +1,2 @@
 # poc-design-token
+- This project fork design system playground with [Design Token Playground](https://www.figma.com/file/UEfE4yT3gPePnXuJxW94rP/Design-Tokens-Playground-(Community)?node-id=454-1579&t=Pl5pIWi0B4WCBDjx-0)
