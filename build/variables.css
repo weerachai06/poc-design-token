@@ -1,24 +1,9 @@
 /**
  * Do not edit directly
- * Generated on Tue, 18 Apr 2023 16:41:24 GMT
+ * Generated on Tue, 18 Apr 2023 16:44:44 GMT
  */
 
 :root {
-  --color-background-primary: #ffffff;
-  --color-background-link: #0366d6;
-  --color-background-inverse: #111111;
-  --color-background-light: #fcfcff;
-  --color-background-dark: #182342;
-  --color-background-darker: #060d26;
-  --color-background-medium: #ebedf5;
-  --color-background-medium-dark: #475272;
-  --color-core-white: #ffffff;
-  --color-core-black: #111111;
-  --color-core-gray: #dddddd;
-  --color-core-blue: #0366d6;
-  --color-font-primary: #111111;
-  --color-font-link: #0366d6;
-  --color-font-inverse: #ffffff;
   --color-typography-text-color-helper-critical-inverse: #ffa9a9;
   --color-typography-text-color-helper-critical: #f21515;
   --color-typography-text-color-headers: #060d26;
@@ -64,6 +49,11 @@
   --color-text-color-success-inverse: #d4eca1;
   --color-text-color-warning: #c7971b;
   --color-text-color-alert-inverse: #f2ba2a;
+  --color-background-light: #fcfcff;
+  --color-background-dark: #182342;
+  --color-background-darker: #060d26;
+  --color-background-medium: #ebedf5;
+  --color-background-medium-dark: #475272;
   --color-border-color-smooth: #dfdfdf;
   --color-border-color-smooth-hover: #d1d1d1;
   --color-border-color-smooth-inverse: #475272;
@@ -150,13 +140,6 @@
   --color-take-medium-dark: #7aa125;
   --color-take-darker: #314604;
   --color-take-dark: #557909;
-  --component-button-padding: 1rem;
-  --component-button-font-size: 2rem;
-  --component-button-text-align: center;
-  --component-button-primary-background-color: #e63c19;
-  --component-button-primary-color: #ffffff;
-  --component-button-secondary-background-color: #ffffff;
-  --component-button-secondary-color: #0366d6;
   --font-paragraph: [object Object];
   --font-small-sutbtitles: [object Object];
   --font-caption: [object Object];
@@ -289,10 +272,4 @@
   --typography-small-paragraph-paragraph-indent: 0;
   --typography-small-paragraph-paragraph-spacing: 16;
   --typography-small-paragraph-text-case: none;
-  --size-font-small: 0.75rem;
-  --size-font-medium: 1rem;
-  --size-font-large: 1.5rem;
-  --size-padding-small: 0.5rem;
-  --size-padding-medium: 1rem;
-  --size-padding-large: 2rem;
 }
